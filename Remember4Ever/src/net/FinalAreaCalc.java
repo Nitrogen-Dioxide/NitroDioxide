@@ -1,7 +1,7 @@
 package net;
 
 public class FinalAreaCalc {
-	private final double PI=3.14;
+	private final double PI = Math.PI;
 	private double area;
 	
 	public void calcArea(double radius){
